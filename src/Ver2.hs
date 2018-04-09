@@ -1,4 +1,4 @@
-module Main where
+module Ver2 where
 
 import Data.List
 import Data.Functor
